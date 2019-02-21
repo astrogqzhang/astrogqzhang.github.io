@@ -1,64 +1,64 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<?xml-stylesheet type="text/xsl" href="http://localhost:1313/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://gqzhang.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/post/treemacs/</loc>
+    <loc>http://gqzhang.com/post/treemacs/</loc>
     <lastmod>2019-02-20T08:43:01+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/terminal-emacs/</loc>
+    <loc>http://gqzhang.com/post/terminal-emacs/</loc>
     <lastmod>2019-02-14T19:08:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/spacemacs-use/</loc>
+    <loc>http://gqzhang.com/post/spacemacs-use/</loc>
     <lastmod>2019-02-13T12:02:36+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/model-compare/</loc>
+    <loc>http://gqzhang.com/post/model-compare/</loc>
     <lastmod>2019-02-13T11:48:43+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/spacemacs-config/</loc>
+    <loc>http://gqzhang.com/post/spacemacs-config/</loc>
     <lastmod>2019-02-11T09:58:44+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://gqzhang.com/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://gqzhang.com/</loc>
     <lastmod>2019-02-20T08:43:01+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>http://gqzhang.com/post/</loc>
     <lastmod>2019-02-20T08:43:01+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://gqzhang.com/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
