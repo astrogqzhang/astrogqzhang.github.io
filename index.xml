@@ -32,6 +32,52 @@ Treemacs 的界面。会显示之前添加的 project.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Terminal Emacs</title>
+      <link>http://localhost:1313/post/terminal-emacs/</link>
+      <pubDate>Thu, 14 Feb 2019 19:08:00 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/terminal-emacs/</guid>
+      
+        <description>&lt;h1 id=&#34;终端下的-emacs&#34;&gt;终端下的 Emacs&lt;/h1&gt;
+
+&lt;p&gt;终端下的 Emacs 已经非常强大，特别是对于 wsl 而言，用终端下的 Emacs
+更加方便快捷，但为了发挥终端下 Emacs 的强大功能，最好是选择支持 True
+Color 的终端，能够显示更多的色彩。本文介绍如何使用 True Color 的终端来
+使用 Emacs。&lt;/p&gt;
+
+&lt;h2 id=&#34;终端&#34;&gt;终端&lt;/h2&gt;
+
+&lt;p&gt;对于 wsl 而言，推荐使用 wsl-terminal 这个终端。经过验证，这个终端可以实现
+True Color。对于其他的终端而言，可以用这个脚本来进行检验。&lt;/p&gt;
+
+&lt;p&gt;wget https://raw.githubusercontent.com/JohnMorales/dotfiles/master/colors/24-bit-color.sh
+  chmod +x 24-bit-color.sh
+  ./24-bit-color.sh&lt;/p&gt;
+
+&lt;p&gt;运行之后，支持 24 bit 色深即 True Color 的终端显示的色彩明显更加连续。&lt;/p&gt;
+
+&lt;h2 id=&#34;emacs&#34;&gt;Emacs&lt;/h2&gt;
+
+&lt;p&gt;确认终端支持 True Color 后，可以设置 Emacs 支持 True Color。只需新建一个文件，
+名为 terminfo-24bit.src, 然后把下面的代码贴进去：&lt;/p&gt;
+
+&lt;p&gt;xterm-24bits|xterm with 24-bit direct color mode,
+  use=xterm-256color,
+  Tc,
+  setb24=\E[48;2;%p1%{65536}%/%d;%p1%{256}%/%{255}%&amp;%d;%p1%{255}%&amp;%dm,
+            setf24=\E[38;2;%p1%{65536}%/%d;%p1%{256}%/%{255}%&amp;%d;%p1%{255}%&amp;%dm,&lt;/p&gt;
+
+&lt;p&gt;之后&lt;/p&gt;
+
+&lt;p&gt;tic -x -o ~/.terminfo terminfo-24bit.src
+  TERM=xterm-24bits emacs -nw&lt;/p&gt;
+
+&lt;p&gt;即可启动终端下的 Emacs, 且支持 True Color,可以通过 &lt;code&gt;M-x list-colors-display&lt;/code&gt; 来验证。&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
       <title></title>
       <link>http://localhost:1313/post/python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

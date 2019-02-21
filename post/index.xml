@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Terminal Emacs</title>
+      <link>http://localhost:1313/post/terminal-emacs/</link>
+      <pubDate>Thu, 14 Feb 2019 19:08:00 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/terminal-emacs/</guid>
+      <description>终端下的 Emacs 终端下的 Emacs 已经非常强大，特别是对于 wsl 而言，用终端下的 Emacs 更加方便快捷，但为了发挥终端下 Emacs 的强大功能，最好是选择支持 True Color 的终端，能够显</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>http://localhost:1313/post/python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
