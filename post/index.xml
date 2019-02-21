@@ -30,12 +30,30 @@
     </item>
     
     <item>
-      <title></title>
-      <link>http://localhost:1313/post/python/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Spacemacs Use</title>
+      <link>http://localhost:1313/post/spacemacs-use/</link>
+      <pubDate>Wed, 13 Feb 2019 12:02:36 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/python/</guid>
-      <description>IntxLNK/�h�o�m�e�/�d�u�g�u�/�w�o�r�k�s�p�a�c�e�/�O�r�g�/�p�y�t�h�o�n�.�o�r�g�</description>
+      <guid>http://localhost:1313/post/spacemacs-use/</guid>
+      <description>Spacemacs 使用记录 本文主要记录 Spacemacs 的使用记录，包括新学会的特征，用法等等 Org Spell Check Chinese Syntax Check Auto-completion 可以用 C-c C-, 来选择在 org-mode 里面插入内容。 采用 aspell 作为补全后端，同时指定默</description>
+    </item>
+    
+    <item>
+      <title>Model Compare</title>
+      <link>http://localhost:1313/post/model-compare/</link>
+      <pubDate>Wed, 13 Feb 2019 11:48:43 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/model-compare/</guid>
+      <description>模型比较 The Goodness of fit</description>
+    </item>
+    
+    <item>
+      <title>Spacemacs Config</title>
+      <link>http://localhost:1313/post/spacemacs-config/</link>
+      <pubDate>Mon, 11 Feb 2019 09:58:44 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/spacemacs-config/</guid>
+      <description>Spacemacs 配置 中文输入配置 Spell-check 配置 添加 chinese layers, 因为 wsl 输入法的问题，采用 pyim 作为默认输入法。同时添加 pyim－basedist 作为基本词库。 详见 gqzhang</description>
     </item>
     
   </channel>
