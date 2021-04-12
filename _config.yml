@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhang Guoqiang / Site"
+title                    : "Zhang Guoqiang's Site"
 title_separator          : "-"
 name                     : &name "Zhang Guoqiang"
-description              : &description "Astrophysics Ph.D."
+description              : &description "Astrophysics Ph.D. at Nanjing University"
 url                      : https://astrogqzhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "astrogqzhang/astrogqzhang.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhang Guoqiang"
   avatar           : "profile.jpg"
-  bio              : "left-hand sidebar"
+  bio              : "Astrophysics Ph.D."
   location         : "Nanjing, Jiangsu, China"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "dugu_zgq"
   vine             :
   weibo            : 
   xing             :
