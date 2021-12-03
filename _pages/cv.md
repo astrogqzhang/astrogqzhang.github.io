@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in School of Astronomy & Space Science, Nanjing University, 2013
-* M.S. in School of Astronomy & Space Science, Nanjing University, 2017
-* Ph.D in School of Astronomy & Space Science, Nanjing University, 2017
+* B.S. in School of Astronomy & Space Science, Nanjing University, China, 2013-2017
+* M.S. & Ph.D. in School of Astronomy & Space Science, Nanjing University, China, 2017-2022
+* Exchange Student in Physics Department, Bar-Ilan University, Israel
 
 Work experience
 ======
@@ -22,10 +22,6 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
