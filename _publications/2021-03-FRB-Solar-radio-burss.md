@@ -1,0 +1,11 @@
+---
+title: "Galactic and cosmological fast radio bursts as scaled-up solar radio bursts"
+collection: publications
+permalink: /publication/2021-03-FRB-Solar-radio-burss
+excerpt: 'Here, we report a universal correlation between X-ray luminosity and radio luminosity over 20 orders of magnitude among solar type III radio bursts, XTE J1810-197 and Galactic FRB 200428.'
+date: 2021-03-01
+venue: 'Monthly Notices of the Royal Astronomical Society'
+paperurl: 'https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.3155W/abstract'
+citation: 'Wang, F.~Y., Zhang, G.~Q., & Dai, Z.~G. 2021, MNRAS, 501, 3155. doi:10.1093/mnras/staa3912'
+---
+Fast radio bursts (FRBs) are bright milliseconds radio transients with large dispersion measures. Recently, FRB 200428 was detected in temporal coincidence with a hard X-ray flare from the Galactic magnetar SGR 1935+2154, which supports that at least some FRBs are from magnetar activity. Interestingly, a portion of X-ray flares from magnetar XTE J1810-197 and the Sun are also accompanied by radio bursts. Many features of Galactic FRB 200428 and cosmological FRBs resemble solar radio bursts. However, a common physical origin among FRBs, magnetar radio pulses, and solar radio bursts has not yet been established. Here, we report a universal correlation between X-ray luminosity and radio luminosity over 20 orders of magnitude among solar type III radio bursts, XTE J1810-197 and Galactic FRB 200428. This universal correlation reveals that the energetic electrons that produce the X-ray flares and those that cause radio emissions have a common origin, which can give stringent limits on the generation process of radio bursts. Moreover, we find similar occurrence frequency distributions of energy, duration, and waiting time for solar radio bursts, SGR 1935+2154 and repeating FRB 121102, which also support the tight correlation and the X-ray flares temporally associated with radio bursts. All of these distributions can be understood by avalanche models of self-organized criticality systems. The universal correlation and statistical similarities indicate that the Galactic FRB 200428 and FRBs seen at cosmological distances can be treated as scaled-up solar radio bursts.

@@ -1,0 +1,11 @@
+---
+title: "Understanding FRB 200428 in the Synchrotron Maser Shock Model: Consistency and Possible Challenge"
+collection: publications
+permalink: /publication/2020-09-Synchrotron-maser-shock-FRB200428
+excerpt: 'We show that the observational properties of FRB 200428 and the associated XRB are consistent with the predictions of synchrotron maser emission at ultrarelativistic magnetized shocks'
+date: 2020-09-01
+venue: 'The Astrophysical Journal Letters'
+paperurl: 'https://ui.adsabs.harvard.edu/abs/2020ApJ...900L..26W/abstract'
+citation: 'Wu, Q., Zhang, G.~Q., Wang, F.~Y., et al. 2020, ApJL, 900, L26. doi:10.3847/2041-8213/abaef1'
+---
+Recently, the discovery of Galactic FRB 200428 associated with an X-ray burst (XRB) of SGR 1935+2154 has built a bridge between FRBs and magnetar activities. In this Letter, we assume that the XRB occurs in the magnetar magnetosphere. We show that the observational properties of FRB 200428 and the associated XRB are consistent with the predictions of synchrotron maser emission at ultrarelativistic magnetized shocks, including radiation efficiency, similar energy occurrence frequency distributions, and simultaneous arrive times. It requires that the upstream medium is a mildly relativistic baryonic shell ejected by a previous flare. The energy injection by flares responsible for the radio bursts will produce a magnetar wind nebula, which has been used to explain the persistent radio source associated with FRB 121102. We find that the radio continuum around SGR 1935+2154 can be well understood in the magnetar wind nebula model, by assuming the same energy injection rate  $\dot{E}\propto t^{−1.37}$  as FRB 121102. The required baryonic mass is also estimated form the observations of FRB 121102 by the Green Bank Telescope and the Five-hundred-meter Aperture Spherical Telescope. By assuming the same radiation efficiency  $η\sim 10^{−5}$  , the total baryonic mass ejected from the central magnetar is about 0.005 solar mass. This value is much larger than the typical mass of a magnetar outer crust, but is comparable to the total mass of a magnetar crust.

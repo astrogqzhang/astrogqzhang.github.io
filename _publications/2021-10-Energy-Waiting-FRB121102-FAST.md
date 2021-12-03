@@ -1,0 +1,11 @@
+---
+title: "Energy and Waiting Time Distributions of FRB 121102 Observed by FAST"
+collection: publications
+permalink: /publication/2021-10-Energy-Waiting-FRB121102-FAST
+excerpt: 'We use the observation of FAST of FRB 121102 to investigate the energy and waiting time distributions.'
+date: 2021-10-01
+venue: 'The Astrophysical Journal Letters'
+paperurl: 'https://ui.adsabs.harvard.edu/abs/2021ApJ...920L..23Z/abstract'
+citation: 'Zhang, G.~Q., Wang, P., Wu, Q., et al. 2021, ApJL, 920, L23. doi:10.3847/2041-8213/ac2a3b'
+---
+The energy and waiting time distributions are important properties for understanding the physical mechanism of repeating fast radio bursts (FRBs). Recently, the Five-hundred-meter Aperture Spherical radio Telescope (FAST; Nan et al. 2011; Li et al. 2018) detected the largest burst sample of FRB 121102, containing 1652 bursts Li et al. (2021a) We use this sample to investigate the energy and waiting time distributions. The energy count distribution dN/dE at the high-energy range ($>10^{38}$ erg) can be fitted with a single power-law function with an index of $-{1.86}_{-0.02}^{+0.02}$, while the distribution at the low-energy range deviates from the power-law function. An interesting result of Li et al. (2021a) is that there is an apparent temporal gap between early bursts (occurring before MJD 58740) and late bursts (occurring after MJD 58740). We find that the energy distributions of high-energy bursts at different epochs are inconsistent. The power-law index is $-{1.70}_{-0.03}^{+0.03}$ for early bursts and $-{2.60}_{-0.14}^{+0.15}$ for late bursts. For bursts observed in a single day, a linear repetition pattern is found. We use the Weibull function to fit the distribution of waiting time of consecutive bursts. The shape parameter $k={0.72}_{-0.01}^{+0.01}$ and the event rate $r={736.43}_{-28.90}^{+26.55}$ day$^{−1}$ are derived. If the waiting times with $\delta t < 28$ s are excluded, the burst behavior can be described by a Poisson process. The best-fitting values of k are slightly different for low-energy ($E < 1.58 × 10^{38}$ erg) and high-energy ($E > 1.58 × 10^{38}$ erg) bursts.

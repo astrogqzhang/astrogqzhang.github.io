@@ -1,0 +1,11 @@
+---
+title: "Dispersion and Rotation Measures from the Ejecta of Compact Binary Mergers: Clue to the Progenitors of Fast Radio Bursts"
+collection: publications
+permalink: /publication/2021-02-DM-and-RM-from-ejecta-of-Compact-binary-merge
+excerpt: 'In this paper, we derive the scaling laws for the DM and RM from ejecta with different dynamical structures in the uniform ambient medium and wind environment.'
+date: 2021-02-01
+venue: 'The Astrophysical Journal'
+paperurl: 'https://ui.adsabs.harvard.edu/abs/2021ApJ...907..111Z/abstract'
+citation: 'Zhao, Z.~Y., Zhang, G.~Q., Wang, Y.~Y., et al. 2021, ApJ, 907, 111. doi:10.3847/1538-4357/abd321'
+---
+Since the discovery of FRB 200428 associated with the Galactic SGR 1935+2154, magnetars have been considered to power fast radio bursts (FRBs). It is widely believed that magnetars could form by core-collapse (CC) explosions and compact binary mergers, such as binary neutron stars (BNSs), binary white dwarfs (BWDs), and neutron star-white dwarf (NSWD) mergers. Therefore, it is important to distinguish the various progenitors. The expansion of the merger ejecta produces a time-evolving dispersion measure (DM) and rotation measure (RM) that can probe the local environments of FRBs. In this paper, we derive the scaling laws for the DM and RM from ejecta with different dynamical structures (the mass and energy distribution) in the uniform ambient medium (merger scenario) and wind environment (CC scenario). We find that the DM and RM will increase in the early phase, while DM will continue to grow slowly but RM will decrease in the later phase in the merger scenario. We fit the DM and RM evolution of FRB 121102 simultaneously for the first time in the BNS merger scenario and find that the source age is ∼9-10 yr when it was first detected in 2012, and the ambient medium density is ∼2.5-3.1 cm$^{-3}$. The large offsets of some FRBs are consistent with the BNS/NSWD channel. The population synthesis method is used to estimate the rate of compact binary mergers. The rate of BWD mergers is close to the observed FRB rate. Therefore, the progenitors of FRBs may not be unique.
