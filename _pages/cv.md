@@ -13,14 +13,10 @@ Education
 ======
 * B.S. in School of Astronomy & Space Science, Nanjing University, China, 2013-2017
 * M.S. & Ph.D. in School of Astronomy & Space Science, Nanjing University, China, 2017-2022
-* Exchange Student in Physics Department, Bar-Ilan University, Israel
+* Exchange Student in Physics Department, Bar-Ilan University, Israel, 2021-2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
   
 Skills
