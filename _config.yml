@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhang Guoqiang's Site"
 title_separator          : "-"
 name                     : &name "Zhang Guoqiang"
-description              : &description "Astrophysics Ph.D. at Nanjing University"
+description              : &description "Astrophysics Ph.D."
 url                      : https://astrogqzhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "astrogqzhang/astrogqzhang.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "dugu_zgq"
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -83,16 +83,16 @@ author:
   name             : "Zhang Guoqiang"
   avatar           : "profile.jpg"
   bio              : "Astrophysics Ph.D."
-  location         : "Nanjing, Jiangsu, China"
+  location         : "Shanghai, China"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : 
-  email            : "gqzhang@smail.nju.edu.cn"
+  email            : "guoqiangzhang@fudan.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
-  kaggle           : "astrogqzhang"
+  kaggle           : 
   dribbble         :
   flickr           :
   facebook         :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "dugu_zgq"
+  twitter          :
   vine             :
   weibo            : 
   xing             :
