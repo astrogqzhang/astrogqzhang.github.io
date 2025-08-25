@@ -12,18 +12,19 @@ redirect_from:
 Education
 ======
 * B.S. in School of Astronomy & Space Science, Nanjing University, China, 2013-2017
-* M.S. & Ph.D. in School of Astronomy & Space Science, Nanjing University, China, 2017-2022
+* M.S. & Ph.D. in School of Astronomy & Space Science, Nanjing University, China, 2017-2023
 * Exchange Student in Physics Department, Bar-Ilan University, Israel, 2021-2022
 
 Work experience
 ======
+* Postdoc in Fudan Center for Astronomy And Astrophysics, Fudan University, China, 2025-
 
   
 Skills
 ======
 * Python
 * C/C++
-* cuda
+* CUDA
 
 Publications
 ======
